@@ -1,13 +1,11 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: page
-title: Heim
-nav_order: 0
+# title: Intro
+#permalink: /intro/
+#nav_order: 1
 ---
 
-# Hvat eru FOLK klientar
+<!-- # Hvat eru FOLK klientar -->
 
 FOLK klientar er ein samling av savnsforritum til samskifti við vevtænastur í [Fólkayvirlitsskipanini](http://us.fo/Default.aspx?ID=13792) (FOLK) hjá
 [Umhvørvisstovuni](http://us.fo). Hesar vevtænastur eru tøkar umvegis

@@ -18,19 +18,29 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+# Set a path/url to a logo that will be displayed instead of the title
+logo: "/assets/images/Umhvorvisstovan-logo.png"
+
+title: FOLK klientar til Heldina
+email: bardurj@us.fo
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Skjalfesting og klient-kota til íbinding av skipanum í FOLK, umvegis Heldina.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+permalink: pretty
+exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"
+, "docs/tests/"
+]
+
 twitter_username: jekyllrb
 github_username:  jekyll
+facebook: https://www.facebook.com/umhvorvisstovan
 
 # Build settings
-theme: minima
+# theme: minima
+theme: "just-the-docs"
+remote_theme: pmarsceill/just-the-docs
 plugins:
   - jekyll-feed
 
