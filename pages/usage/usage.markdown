@@ -1,6 +1,6 @@
 ---
 layout: page
-# title: Java klientur
+title: Java dømi
 permalink: /nytsla/slag
 nav_order: 1
 parent: Nýtsla
