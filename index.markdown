@@ -17,9 +17,5 @@ Endamálið við FOLK klientunum er at lætta um arbeiði at knýta egnar KT-ski
 
 Klientarnir eru tøkir til forritanarmálini **Java** og **C#**.
 
-<!-- Vevtænasturnar, ið eru tøkar, eru býttar sundur í einfaldar tænastur og meira samansettar tænastur. Tær einføldu eru ætlaðaðar til
-smærri brúkarar, ið bert hava tørv á, ella heimild til, avmarkaða atgongd. Í fystu útgávuni eru bert tær einfaldu
-vevtænasturnar við. -->
-
 :exclamation: GG. Allar persónsupplýsingar her á síðunum eru tilgjørdar royndarupplýsingar frá
 Umhvørvisstovuni.
