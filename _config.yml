@@ -38,5 +38,3 @@ facebook: https://www.facebook.com/umhvorvisstovan
 remote_theme: pmarsceill/just-the-docs@v0.3.0
 plugins:
   - jekyll-feed
-
-markdown: kramdown
