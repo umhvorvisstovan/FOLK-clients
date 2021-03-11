@@ -36,7 +36,7 @@ facebook: https://www.facebook.com/umhvorvisstovan
 
 # Build settings
 # theme: minima
-theme: "just-the-docs"
+# theme: "just-the-docs"
 remote_theme: pmarsceill/just-the-docs
 plugins:
   - jekyll-feed
