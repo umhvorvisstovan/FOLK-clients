@@ -17,5 +17,7 @@ Endamálið við FOLK klientunum er at lætta um arbeiði at knýta egnar KT-ski
 
 Klientarnir eru tøkir til forritanarmálini **Java** og **C#**.
 
+Kotan er at finna [her](https://github.com/umhvorvisstovan/FOLK-clients).
+
 :exclamation: GG. Allar persónsupplýsingar her á síðunum eru tilgjørdar royndarupplýsingar frá
 Umhvørvisstovuni.
